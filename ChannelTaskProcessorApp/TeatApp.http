@@ -1,0 +1,6 @@
+@TeatApp_HostAddress = http://localhost:5164
+
+GET {{TeatApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
